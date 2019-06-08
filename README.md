@@ -4,7 +4,7 @@ Guia de estudio de Git
 ## Supuesto 1
 
 Queremos desarrollar una aplicación web en la que van a trababar al menos 3 programadores. Cada uno de ellos tiene habilidades en diferentes áreas. 
-- Programador 1: HTML y maquetacin inicial
+- Programador 1: HTML y maquetación inicial
 - Programador 2: CSS
 - Programdor 3: PHP 
 
